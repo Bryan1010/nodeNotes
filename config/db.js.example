@@ -1,0 +1,3 @@
+module.exports = {
+  url: <MongoDB URI HERE>
+};
